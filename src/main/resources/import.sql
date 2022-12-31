@@ -1,0 +1,3 @@
+insert into role (id,name,description) values('503f2122-8793-11ed-a1eb-0242ac120002','Developer','Create awesome stuff with code');
+insert into role (id,name,description) values('58643d6a-8793-11ed-a1eb-0242ac120002','Product Owner','Define user stories and create a product backlog');
+insert into role (id,name,description) values('6187e4be-8793-11ed-a1eb-0242ac120002','Tester','Test what the developer deliver');
